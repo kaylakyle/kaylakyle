@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Banner](https://github.com/kaylakyle/kaylakyle/blob/main/Beige%20Feminine%20Personal%20LinkedIn%20Banner.png)<br><br>I'm a developer passionate about **building practical solutions with code**, contributing to open-source, and exploring ways technology can make life easier. 
+![Banner](https://github.com/kaylakyle/kaylakyle/blob/main/Beige%20Feminine%20Personal%20LinkedIn%20Banner.png?raw=true)<br><br>I'm a developer passionate about **building practical solutions with code**, contributing to open-source, and exploring ways technology can make life easier. 
 
 
 ## 🌐 Socials:
