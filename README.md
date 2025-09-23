@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Banner](./Beige Feminine Personal LinkedIn Banner.png)
 <br><br>I'm a developer passionate about **building practical solutions with code**, contributing to open-source, and exploring ways technology can make life easier. 
 
 
