@@ -75,14 +75,9 @@
 ### 📈 GitHub Activity Graph:
 [![Lynn Kati's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaylakyle)](https://github.com/kaylakyle)
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 ----------------------------------------------------------------------------------------------------------------------------
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaylakyle&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/kaylakyle)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaylakyle&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylakyle&theme=radical&hide_border=true&layout=compact)](https://github.com/kaylakyle)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaylakyle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
