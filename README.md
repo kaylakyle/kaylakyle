@@ -4,7 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=100&lines=Hi+I%27m+Lynn+Kati;I%27m+a+developer+passionate+about+building+practical+solutions+with+code;Contributing+to+open-source+and+exploring+ways+technology+can+make+life+easier)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lynnkatty1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lynn-kati-7451102b2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lynnkati18@gmail.com) 
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/kaylakyle) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lynn-kati-7451102b2/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lynnkatty1) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lynnkati18@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaylakyle&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views counter" />
+</p>
 
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
