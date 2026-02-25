@@ -74,6 +74,9 @@
 </p>
 <br />
 
+### 📈 GitHub Activity Graph:
+[![Lynn Kati's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaylakyle)](https://github.com/kaylakyle)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaylakyle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kaylakyle&theme=dark&hide_border=false)<br/>
