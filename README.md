@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+I'm+Lynn+Kati;Software+Engineering+Student;Java+%7C+PHP+%7C+Web+Development)](https://git.io/typing-svg)
+
 # 💫 About Me:
 ![Banner](./Beige%20Feminine%20Personal%20LinkedIn%20Banner.png)
 <br><br>I'm a developer passionate about **building practical solutions with code**, contributing to open-source, and exploring ways technology can make life easier. 
