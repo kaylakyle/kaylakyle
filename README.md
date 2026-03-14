@@ -87,8 +87,8 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=kaylakyle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 Top used languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylakyle&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
+## 🔝 All Languages
+![All Languages](stats/leaderboard_by_lines.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
