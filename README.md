@@ -79,8 +79,6 @@
 ### 📈 GitHub Activity Graph:
 [![Lynn Kati's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaylakyle)](https://github.com/kaylakyle)
 
-### 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylakyle&layout=compact&theme=dark)
 
 ### 📊 GitHub Streak
 ----------------------------------------------------------------------------------------------------------------------------
@@ -93,7 +91,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repos
-[![](https://github-contributor-stats.vercel.app/api?username=kaylakyle&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/kaylakyle)
+![](https://contributor-stats.vercel.app/api?username=kaylakyle&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaylakyle&icon=0&color=0)](https://visitcount.itsvg.in)
