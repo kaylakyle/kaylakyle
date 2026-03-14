@@ -90,7 +90,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=kaylakyle&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=kaylakyle&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/kaylakyle)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaylakyle&icon=0&color=0)](https://visitcount.itsvg.in)
