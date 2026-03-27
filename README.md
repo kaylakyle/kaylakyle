@@ -87,9 +87,6 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=kaylakyle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 Top 10 Languages
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
