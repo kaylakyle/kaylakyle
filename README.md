@@ -16,65 +16,76 @@
 <p align="left">
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=white" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell" width="90" height="30"/>
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" />
+<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" />
+<img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell" />
+
+<br><br>
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" width="100" height="30"/>
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" width="100" height="30"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="90" height="30"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
+<img src="https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass" />
+<img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" />
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
+
+<br><br>
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens" width="90" height="30"/>
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring" />
+<img src="https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net" />
+<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" />
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi" />
+<img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs" />
+<img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens" />
+
+<br><br>
 
 <!-- Databases -->
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" width="100" height="30"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" width="110" height="30"/>
-<img src="https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver" width="110" height="30"/>
-<img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase" width="100" height="30"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver" />
+<img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase" />
+
+<br><br>
 
 <!-- Cloud -->
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud" width="110" height="30"/>
-<img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify" width="90" height="30"/>
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure" />
+<img src="https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud" />
+<img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render" />
+<img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify" />
+
+<br><br>
 
 <!-- DevOps & Tools -->
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" width="110" height="30"/>
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Windows%20Terminal-black?style=flat-square&logo=windows-terminal" width="130" height="30"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab" />
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" />
+<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" />
+<img src="https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira" />
+<img src="https://img.shields.io/badge/-Windows%20Terminal-black?style=flat-square&logo=windows-terminal" />
+
+<br><br>
 
 <!-- Design -->
-<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva" width="90" height="30"/>
-<img src="https://img.shields.io/badge/-Adobe-black?style=flat-square&logo=adobe" width="90" height="30"/>
+<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
+<img src="https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva" />
+<img src="https://img.shields.io/badge/-Adobe-black?style=flat-square&logo=adobe" />
 
 </p>
-<br />
 
 ### 📈 GitHub Activity Graph:
 [![Lynn Kati's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaylakyle)](https://github.com/kaylakyle)
