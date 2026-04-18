@@ -13,8 +13,6 @@
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
 
-<p align="left">
-
 <!-- Languages -->
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=white" />
@@ -24,7 +22,7 @@
 <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" />
 <img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell" />
 
-<br><br>
+<br>
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
@@ -35,7 +33,7 @@
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
 
-<br><br>
+<br>
 
 <!-- Backend -->
 <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
@@ -48,7 +46,7 @@
 <img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs" />
 <img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens" />
 
-<br><br>
+<br>
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
@@ -57,7 +55,7 @@
 <img src="https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver" />
 <img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase" />
 
-<br><br>
+<br>
 
 <!-- Cloud -->
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" />
@@ -66,9 +64,9 @@
 <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render" />
 <img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify" />
 
-<br><br>
+<br>
 
-<!-- DevOps & Tools -->
+<!-- DevOps -->
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab" />
@@ -78,14 +76,12 @@
 <img src="https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira" />
 <img src="https://img.shields.io/badge/-Windows%20Terminal-black?style=flat-square&logo=windows-terminal" />
 
-<br><br>
+<br>
 
 <!-- Design -->
 <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
 <img src="https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva" />
 <img src="https://img.shields.io/badge/-Adobe-black?style=flat-square&logo=adobe" />
-
-</p>
 
 ### 📈 GitHub Activity Graph:
 [![Lynn Kati's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaylakyle)](https://github.com/kaylakyle)
