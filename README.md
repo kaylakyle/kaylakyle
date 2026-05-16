@@ -73,7 +73,7 @@
 [![Lynn Kati's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaylakyle)](https://github.com/kaylakyle)
 
 
-### 📊 GitHub Streak
+### 📊 GitHub Streak:
 ----------------------------------------------------------------------------------------------------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaylakyle&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
